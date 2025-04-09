@@ -13,38 +13,3 @@
 .externalNativeBuild
 .cxx
 local.properties
-# Gradle
-.gradle/
-build/
-
-# Android Studio
-.idea/
-*.iml
-
-# Kotlin
-*.kotlin_module
-*.kotlin_metadata
-
-# Android
-local.properties
-*.apk
-*.ap_  
-*.dex
-*.class
-
-# Logi
-*.log
-
-# Systemowe pliki operacyjne
-.DS_Store
-Thumbs.db
-
-# Pliki wygenerowane przez Android Studio
-*.swp
-.idea/caches
-.idea/libraries
-.idea/modules
-.idea/workspace.xml
-
-# Backupy
-*~
